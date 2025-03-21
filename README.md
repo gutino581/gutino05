@@ -1,4 +1,4 @@
-Hola! Yo soy Thangviet.
-Bienvenidos a mi página de GitHub.
-Este es el lugar perfecto para desarrollar proyectos y almacenar código.
-Gracias por visitarme!
+hola yo soy thangviet
+bienvenidos a mi página de github
+este es el lugar perfecto para desarrollar proyectos y almacenar código
+gracias por visitarme
